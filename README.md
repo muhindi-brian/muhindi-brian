@@ -29,7 +29,8 @@ For a complete list of my projects, check out my [portfolio](https://BRIANECODES
 
 ## 📊 GitHub Stats
 
-![Brian Muhindi Mwangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&hide=contribs,prs)
+![Brian Muhindi Mwangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhindi-brian&show_icons=true&hide=contribs,prs)
+
 
 ## 🌐 Connect with Me
 
