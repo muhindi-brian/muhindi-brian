@@ -23,7 +23,7 @@ Feel free to explore my repositories for projects developed with these technolog
 
 ### Featured Projects
 
-1. [ACS VEHICLE BOOKING SYSTEM - DJANGO]([https://github.com/muhindi-brian/acs-bookings]) 
+1. [ACS VEHICLE BOOKING SYSTEM - DJANGO](https://github.com/muhindi-brian/acs-bookings) 
 
 For a complete list of my projects, check out my [portfolio](https://yourportfolio.com).
 
