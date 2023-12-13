@@ -34,9 +34,9 @@ For a complete list of my projects, check out my [portfolio](https://yourportfol
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourtwitter)
-- [Portfolio](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourname)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 ## 🛠️ Skills and Technologies
 
@@ -53,4 +53,3 @@ For a complete list of my projects, check out my [portfolio](https://yourportfol
 [![Certification 2](https://img.shields.io/badge/Certification-2-green)](link-to-certification)
 
 Let's connect, collaborate, and build something amazing together!
-
