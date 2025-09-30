@@ -1,55 +1,63 @@
-# 👋 Hello, I'm Brian Muhindi Mwangi
+👋 Hi, I’m Brian Muhindi Mwangi
 
-Fullstack Software Developer | Nairobi, Kenya
+💡 Cloud Software Engineer | IT Leader | Cybersecurity Consultant
+🌍 Based in Nairobi, Kenya
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a passionate Fullstack Software Developer based in Nairobi, Kenya. I love building web applications that solve real-world problems. My journey in the tech world has led me to explore a variety of technologies and languages.
+I’m a highly versatile Cloud Software Engineer and IT Leader with a proven record of designing, implementing, and managing technology solutions that drive business transformation.
 
-## 💻 Tech Stack
+My journey spans enterprise IT support, cloud migrations, software development, ERP implementations, and digital marketing strategy — blending technical expertise, business acumen, and people skills to deliver impactful results.
 
-- Python (Django, Flask)
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- PHP (Laravel)
-- HTML, CSS
-- JavaScript
-- SQL (MySQL, PostgreSQL)
-- RESTful API Design
-- Git, GitHub
+I thrive at the intersection of cloud, security, and innovation, helping organizations scale securely and efficiently.
 
-Feel free to explore my repositories for projects developed with these technologies.
+🛠️ Skills & Expertise
 
-## 🌐 Projects
+☁️ Cloud & Infrastructure: Google Cloud (GCP), Microsoft Azure, DigitalOcean, AWS
 
-### Featured Projects
+🔐 Cybersecurity: Network Security, GDPR, System Hardening, Data Protection
 
-1. [ACS VEHICLE BOOKING SYSTEM - DJANGO](https://github.com/muhindi-brian/acs-bookings) 
+🖥️ Software Development: Python, Ruby, JavaScript, Django, Flask, Ruby on Rails, React
 
-For a complete list of my projects, check out my [portfolio](https://BRIANECODES.AFRICA/).
+🗄️ Databases: MySQL, PostgreSQL, MongoDB
 
-## 📊 GitHub Stats
+⚙️ DevOps & Automation: Docker, Kubernetes, CI/CD, Ansible, Jenkins
 
-![Brian Muhindi Mwangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhindi-brian&show_icons=true&hide=contribs,prs)
+📊 Data & Analytics: Pandas, NumPy, Data Visualization
 
+📈 Digital Marketing: SEO, Analytics, Social Media, Content Strategy
 
-## 🌐 Connect with Me
+🤝 Soft Skills: Leadership, Empathy, Collaboration, Problem-Solving
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-muhindi-mwangi-8a1018164/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/brayanmuhindim1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://brianecodes.africa/)
+🏆 Career Highlights
 
-## 🛠️ Skills and Technologies
+Architected and deployed cloud solutions across GCP, Azure, and DigitalOcean
 
-- Web Development
-- Responsive Design
-- UI/UX Design
-- Agile Methodologies
-- Problem Solving
-- Continuous Learning
+Implemented Odoo ERP systems, streamlining company operations
 
-## 🏆 Badges
+Led Google Workspace migrations for organizations moving from legacy systems
 
-[![Certification 1](https://img.shields.io/badge/Certification-1-blue)](link-to-certification)
-[![Certification 2](https://img.shields.io/badge/Certification-2-green)](link-to-certification)
+Built custom automation & software tools, including a fleet management system
 
-Let's connect, collaborate, and build something amazing together!
+Directed digital marketing initiatives, driving measurable business growth
+
+Delivered business continuity solutions with Datto, ensuring resilience
+
+📌 Current Focus
+
+Building scalable cloud applications
+
+Helping businesses with digital transformation & security-first strategies
+
+Exploring SaaS solutions and modern DevOps practices
+
+📫 Let’s Connect
+
+📧 Email: brianmuhindi.job@gmail.com
+ | brian.muhindi@outlook.com
+
+💼 LinkedIn: linkedin.com/in/brian-muhindi-mwangi-146604320
+
+🖥️ GitHub: github.com/muhindi-brian
+
+✨ I believe technology is a tool for empowerment. My mission is to help organizations adopt modern IT solutions while achieving sustainable growth.
