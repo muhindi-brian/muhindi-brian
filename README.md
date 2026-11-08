@@ -4,8 +4,7 @@
 
 **Cloud software engineer · IT &amp; cybersecurity consultant**
 
-I build web and mobile applications, cloud infrastructure, and the security
-around all of it — for teams across East Africa.
+I build web and mobile applications, cloud infrastructure, and the security around all of it — for teams across East Africa.
 
 [![Website](https://img.shields.io/badge/mojokgroup.xyz-0B0B0F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mojokgroup.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-muhindi-mwangi-146604320/)
@@ -25,15 +24,13 @@ around all of it — for teams across East Africa.
 
 #### Software development
 
-Web platforms, internal tools and mobile apps — built to be maintained, not just
-shipped.
+Web platforms, internal tools and mobile apps — built to be maintained, not just shipped.
 
 `Django` · `Flask` · `React` · `PHP` · `Flutter`
 
 #### Cloud & infrastructure
 
-Migrations and managed environments across the major providers, with CI/CD and
-containers doing the repetitive work.
+Migrations and managed environments across the major providers, with CI/CD and containers doing the repetitive work.
 
 `GCP` · `Azure` · `DigitalOcean` · `AWS` · `Docker`
 
@@ -42,15 +39,13 @@ containers doing the repetitive work.
 
 #### Cybersecurity
 
-Audits, network security, system hardening and data protection — the part that
-has to be right before anything goes live.
+Audits, network security, system hardening and data protection — the part that has to be right before anything goes live.
 
 `Assessments` · `Hardening` · `Compliance`
 
 #### Email, hosting & managed IT
 
-Google Workspace and Microsoft 365 migrations, DNS, domains, managed hosting and
-the day-to-day support that keeps systems up.
+Google Workspace and Microsoft 365 migrations, DNS, domains, managed hosting, and the day-to-day support that keeps systems up.
 
 `DNS` · `Workspace` · `Microsoft 365` · `Managed IT`
 
@@ -62,40 +57,14 @@ the day-to-day support that keeps systems up.
 
 ## Selected work
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**[FaJi-Ai](https://github.com/muhindi-brian/FaJi-Ai)**
-An AI assistant named after my daughters, Favour and Jianna.
-`PHP`
-
-**[ACS Vehicle Manager](https://github.com/muhindi-brian/ACS-vehicle-manager)**
-Fleet management system for tracking vehicles and their records.
-`Python`
-
-**[akfo](https://github.com/muhindi-brian/akfo)**
-Web application built around a client workflow.
-`PHP`
-
-</td>
-<td width="45%" valign="top">
-
-**[File-Renamer](https://github.com/muhindi-brian/File-Renamer)**
-Utility for batch-renaming files.
-`Python`
-
-**[Animated Signature](https://github.com/muhindi-brian/Animated_Signature)**
-Animated signature generator.
-`Web`
-
-**[BrianeCodes](https://github.com/muhindi-brian/BrianeCodes_Nodejs-Website)**
-My personal site, built on Node.js.
-`JavaScript`
-
-</td>
-</tr>
-</table>
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[FaJi-Ai](https://github.com/muhindi-brian/FaJi-Ai)** | An AI assistant named after my daughters, Favour and Jianna | `PHP` |
+| **[ACS Vehicle Manager](https://github.com/muhindi-brian/ACS-vehicle-manager)** | Fleet management system for tracking vehicles and their records | `Python` |
+| **[akfo](https://github.com/muhindi-brian/akfo)** | Web application built around a client workflow | `PHP` |
+| **[File-Renamer](https://github.com/muhindi-brian/File-Renamer)** | Utility for batch-renaming files | `Python` |
+| **[Animated Signature](https://github.com/muhindi-brian/Animated_Signature)** | Animated signature generator | `Web` |
+| **[BrianeCodes](https://github.com/muhindi-brian/BrianeCodes_Nodejs-Website)** | My personal site, built on Node.js | `JavaScript` |
 
 Client work and case studies → **[mojokgroup.xyz/projects](https://mojokgroup.xyz/projects)**
 
@@ -123,5 +92,5 @@ Client work and case studies → **[mojokgroup.xyz/projects](https://mojokgroup.
 ---
 
 <div align="center">
-<sub>Technology is a tool for empowerment — the point is to help people and<br/>organisations grow on top of it.</sub>
+<sub>Technology is a tool for empowerment — the point is to help people and organisations grow on top of it.</sub>
 </div>
