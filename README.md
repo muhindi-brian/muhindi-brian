@@ -57,16 +57,70 @@ Google Workspace and Microsoft 365 migrations, DNS, domains, managed hosting, an
 
 ## Selected work
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[FaJi-Ai](https://github.com/muhindi-brian/FaJi-Ai)** | An AI assistant named after my daughters, Favour and Jianna | `PHP` |
-| **[ACS Vehicle Manager](https://github.com/muhindi-brian/ACS-vehicle-manager)** | Fleet management system for tracking vehicles and their records | `Python` |
-| **[akfo](https://github.com/muhindi-brian/akfo)** | Web application built around a client workflow | `PHP` |
-| **[File-Renamer](https://github.com/muhindi-brian/File-Renamer)** | Utility for batch-renaming files | `Python` |
-| **[Animated Signature](https://github.com/muhindi-brian/Animated_Signature)** | Animated signature generator | `Web` |
-| **[BrianeCodes](https://github.com/muhindi-brian/BrianeCodes_Nodejs-Website)** | My personal site, built on Node.js | `JavaScript` |
+### Platforms &amp; systems
 
-Client work and case studies → **[mojokgroup.xyz/projects](https://mojokgroup.xyz/projects)**
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://app.mfas.co.ke/login"><img src="https://files.catbox.moe/7w3u3f.jpg" width="100%" alt="MFAS practice workspace"></a><br/>
+<b><a href="https://app.mfas.co.ke/login">MFAS Practice</a></b><br/>
+<sub>Case, creditor and claims workspace for a Nairobi insolvency practice, with a full audit trail.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://app.fahariustawi.com/"><img src="https://files.catbox.moe/lsojje.jpg" width="100%" alt="Fahari Ustawi portal"></a><br/>
+<b><a href="https://app.fahariustawi.com/">Fahari Ustawi</a></b><br/>
+<sub>Member portal for a wellness centre — sessions, plans and a daily health dashboard.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://bookly.co.ke/"><img src="https://files.catbox.moe/2i628r.jpg" width="100%" alt="Bookly travel management"></a><br/>
+<b><a href="https://bookly.co.ke/">Bookly</a></b><br/>
+<sub>Travel management for tour operators and B&amp;B hosts — enquiries, itineraries, quotations and invoices.</sub>
+</td>
+</tr>
+</table>
+
+### Websites
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://mfas.co.ke/"><img src="https://files.catbox.moe/3z4cq9.jpg" width="100%" alt="MFAS website"></a><br/>
+<b><a href="https://mfas.co.ke/">MFAS</a></b><br/>
+<sub>Licensed insolvency practitioners and corporate advisers — restructuring, independent reviews, finance leadership.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://kreis.co.ke/"><img src="https://files.catbox.moe/zs5hbs.jpg" width="100%" alt="KREIS website"></a><br/>
+<b><a href="https://kreis.co.ke/">KREIS</a></b><br/>
+<sub>Spatial planning and consulting — urban planning, land surveying, GIS mapping, environmental solutions.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://laioasisventures.com/"><img src="https://files.catbox.moe/6986ib.jpg" width="100%" alt="Lai Oasis Ventures website"></a><br/>
+<b><a href="https://laioasisventures.com/">Lai Oasis Ventures</a></b><br/>
+<sub>Safari operator for East Africa — tours, destinations and trip planning.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://mojoksafaris.africa/"><img src="https://files.catbox.moe/frsobp.jpg" width="100%" alt="Mojok Safaris website"></a><br/>
+<b><a href="https://mojoksafaris.africa/">Mojok Safaris</a></b><br/>
+<sub>Safari and tours booking — safaris, hotel booking, car hire and meet &amp; assist.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://botbuilt.co.ke/"><img src="https://files.catbox.moe/rwcsl2.jpg" width="100%" alt="BOTBUILT website"></a><br/>
+<b><a href="https://botbuilt.co.ke/">BOTBUILT</a></b><br/>
+<sub>Construction and engineering — design &amp; build, building construction and light gauge steel.</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://uasongiro.com/"><img src="https://files.catbox.moe/crd555.jpg" width="100%" alt="Uaso Ngiro Contractors website"></a><br/>
+<b><a href="https://uasongiro.com/">Uaso Ngiro Contractors</a></b><br/>
+<sub>Civil engineering and building contractor — roads, water and buildings since 1986.</sub>
+</td>
+</tr>
+</table>
+
+More client work and case studies → **[mojokgroup.xyz/projects](https://mojokgroup.xyz/projects)**
+
+Open source → **[FaJi-Ai](https://github.com/muhindi-brian/FaJi-Ai)** · **[ACS Vehicle Manager](https://github.com/muhindi-brian/ACS-vehicle-manager)** · **[akfo](https://github.com/muhindi-brian/akfo)**
 
 ---
 
